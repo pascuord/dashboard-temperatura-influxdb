@@ -142,5 +142,4 @@ MIT
 
 ## 👤 Autor
 
-Tu nombre
-
+Pascual Ordiñana Soler - pascuord
